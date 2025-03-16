@@ -4,6 +4,7 @@ class Uuu < Formula
   url "https://github.com/nxp-imx/mfgtools/releases/download/uuu_1.5.182/uuu_source-uuu_1.5.182.tar.gz"
   sha256 "723d3da358e6af974a056e3adbcb105fac9dad4b87544de0d22b8c974a8037aa"
   license "BSD-3-Clause"
+  revision 1
   head "https://github.com/nxp-imx/mfgtools.git", branch: "master"
 
   livecheck do
